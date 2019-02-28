@@ -1,5 +1,5 @@
 def hello_world():
 	return "Hello, World"
 
-def easy_test():
+def test_answer():
 	assert hello_world() == "ello, World"
